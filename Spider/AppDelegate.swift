@@ -3,7 +3,7 @@
 //  Spider
 //
 //  Created by admin on 2019/8/7.
-//  Copyright © 2019 ChengYing. All rights reserved.
+//  Copyright © 2019 . All rights reserved.
 //
 
 import UIKit
